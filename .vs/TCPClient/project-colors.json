@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "161c1c98-79da-4947-addf-38f8ea7f30d3": {
+      "ProjectGuid": "161c1c98-79da-4947-addf-38f8ea7f30d3",
+      "DisplayName": "TCPClient",
+      "ColorIndex": 0
+    },
+    "dd4acd3f-13c5-4725-b777-662a2da75f44": {
+      "ProjectGuid": "dd4acd3f-13c5-4725-b777-662a2da75f44",
+      "DisplayName": "TCP Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

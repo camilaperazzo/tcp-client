@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "damPLTqwnMwtjBZMiYPi78Gzn1hqrjXMlnvtCRCQza8IaZHruX1yrF1KuWbO+HJSj11Crdis6sbrUvW0dyEiAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Midiavox\\OneDrive\\Imagens\\MIDIAVOX BACKUP\\MIDIAVOX CODES\\Desafio Sockets\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Midiavox\\.nuget\\packages\\supersimpletcp\\2.6.0.5\\supersimpletcp.2.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

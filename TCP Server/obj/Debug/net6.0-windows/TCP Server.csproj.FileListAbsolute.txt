@@ -1,0 +1,19 @@
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\TCP Server.exe
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\TCP Server.deps.json
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\TCP Server.runtimeconfig.json
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\TCP Server.dll
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\ref\TCP Server.dll
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\TCP Server.pdb
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.AssemblyReference.cache
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.GenerateResource.cache
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.AssemblyInfo.cs
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.CopyComplete
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.dll
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\ref\TCP Server.dll
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.pdb
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCP Server.genruntimeconfig.cache
+C:\Users\Midiavox\Documents\TCPClient\TCP Server\obj\Debug\net6.0-windows\TCPServer.Form1.resources
