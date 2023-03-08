@@ -1,3 +1,3 @@
 # TCP
 
-This repository contains documents I created to study TCP protocols.
+This repository contains some documents I created to study TCP protocols.
